@@ -1,6 +1,6 @@
 {
-  "name": "Incognito",
-  "description": "The official, up to date version of incognito",
+  "name": "Waffle Proxy",
+  "description": "The official, up to date version of Waffle Proxy",
   "type": "module",
   "version": "1.0.3",
   "scripts": {
