@@ -1,12 +1,12 @@
 version: "3"
 
 services:
-  incognito:
-    image: motortruck1221/incognito:latest
+  Waffle Proxt:
+    image:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: incognito
+    container_name: Waffle Proxy
     restart: unless-stopped    
     environment:
       #Just edit the .env file please
