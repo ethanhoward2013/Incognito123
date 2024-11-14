@@ -2,8 +2,8 @@ version: "3"
 
 services:
   incognito:
-    image: motortruck1221/incognito:latest
-    container_name: incognito
+    image: 
+    container_name: Waffle Proxy
     restart: unless-stopped
     environment:
       #Just edit the .env file please
